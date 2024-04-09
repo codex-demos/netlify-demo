@@ -1,0 +1,12 @@
+.btn-s {
+  border-radius: 11px;
+  border: none;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.419);
+  cursor: pointer;
+  padding: 2px 5rem;
+  max-width: 200px;
+}
+
+.btn-s-primary {
+  background-color: $primary;
+}
